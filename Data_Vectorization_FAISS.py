@@ -97,4 +97,5 @@ vector_store = FAISS.from_texts(texts, embedding_wrapper, metadatas=metadatas)
 print(f"保存 FAISS 向量库到 {faiss_index_path} ...")
 vector_store.save_local(faiss_index_path)
 
+
 print("完成！本地向量库已生成，可用于检索或问答。")
