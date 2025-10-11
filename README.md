@@ -24,6 +24,21 @@
 - **Streamlit 网页互动 → 主动给作物查查病** 
 ---
 
+📁 「查出病」结构
+
+```python
+
+TDPA/
+
+├── data/               # 原始 & 处理后数据 CSV/JSON
+├── embeddings/         # FAISS 向量库索引文件
+├── models/             # 本地 LLM 模型
+├── scripts/            # 数据处理 & RAG 脚本
+├── app.py              # Streamlit 前端入口
+├── requirements.txt    # Python 依赖列表
+└── README.md           # 教程说明
+```
+
 ## 🛠️ 系统搭建思路
 
 ### 1️⃣ 环境准备
