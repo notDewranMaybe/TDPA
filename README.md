@@ -1,4 +1,4 @@
-<h1 align="center">🌾 Talk to Da Plant, it Answers, A dual database RAG tutorial</h1>
+<h1 align="center">🌾 Talk to Da Plant, it Answers!--- A 0 to 1 dual database RAG tutorial</h1>
 
 <p align="center">
   <b>Language / 语言：</b>
