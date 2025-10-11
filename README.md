@@ -1,4 +1,4 @@
-<h1 align="center">🌾 农作物病虫害智能问答系统（RAG） / Crop Disease & Pest RAG System</h1>
+<h1 align="center">🌾 Talk to Da Plant, it Answers, A dual database RAG tutorial</h1>
 
 <p align="center">
   <b>Language / 语言：</b>
